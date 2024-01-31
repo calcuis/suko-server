@@ -12,7 +12,7 @@ This Python code sets up a basic HTTP server using the http.server and socketser
 import http.server
 import socketserver
 ```
-These lines import the necessary modules for creating an HTTP server (http.server for the server itself and `socketserver` for handling the socket connections).
+These lines import the necessary modules for creating an HTTP server (`http.server` for the server itself and `socketserver` for handling the socket connections).
 #### Setting Configuration Parameters:
 ```
 directory = '.'
